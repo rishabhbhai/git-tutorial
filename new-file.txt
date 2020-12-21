@@ -1,0 +1,2 @@
+this a new text from new-file.txt
+
